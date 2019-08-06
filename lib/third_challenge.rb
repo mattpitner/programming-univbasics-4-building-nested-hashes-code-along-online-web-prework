@@ -47,12 +47,12 @@ def third_challenge
         :status => "alive"
         },
       :heroine_friends => [ 
-        Steven = {
+        steven = {
           :name => "Steven",
           :age => "30",
           :attitude => "confused"
         }, 
-        Nurse = {
+        nurse = {
           :name => "Nurse",
           :age => "44",
           :attitude => "worried"
