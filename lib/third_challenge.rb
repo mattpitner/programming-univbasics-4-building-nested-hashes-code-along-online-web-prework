@@ -18,12 +18,12 @@ def third_challenge
         :status => "alive"
         },
       :hero_friends => [
-      "Benvolio" = {
+      benvolio = {
         :name => "Benvolio",
         :age => "17",
         :attitude => "worried"
       }, 
-      "Mercutio" = {
+      mercutio = {
         :name => "Mercutio",
         :age => "18",
         :attitude => "hot-headed"
